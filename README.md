@@ -1,16 +1,23 @@
-## Hi there 👋
+Olá, eu sou Gabriel
 
-<!--
-**caffein30/Caffein30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔹 Apaixonado por Python, Inteligência Artificial e Ciência de Dados
+🔹 Sempre explorando como transformar dados em insights e aplicações reais  
+🔹 Compartilhando projetos, aprendizados e experimentos aqui no GitHub 
 
-Here are some ideas to get you started:
+🧠 Sobre mim
+🎓 Estudando Análise e desenvolvimento de sistemas.
+📊 Interesse especial em **Machine Learning, Deep Learning e Análise de Dados**  
+🐍 Utilizo principalmente **Python** no meu dia a dia  
+📚 Aprendendo continuamente sobre **modelagem preditiva, NLP e visão computacional**  
+🌍 Acredito no poder da IA para resolver problemas reais  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Tecnologias e Ferramentas
+- **Linguagens:** Python, SQL, R (básico) 
+- **Bibliotecas/Data Science:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn  
+- **Deep Learning:** TensorFlow, PyTorch  
+- **Banco de Dados:** MySQL, PostgreSQL, MongoDB  
+- **Outros:** Git/GitHub, Docker, APIs REST  
+
+📫 Como me encontrar
+LinkedIn: https://www.linkedin.com/in/gabriel-chaves-15278324a/
+Email: gabrielgcg3535@gmail.com
