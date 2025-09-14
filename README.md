@@ -18,6 +18,3 @@ Olá, eu sou Gabriel
 - **Banco de Dados:** MySQL, PostgreSQL, MongoDB  
 - **Outros:** Git/GitHub, Docker, APIs REST  
 
-📫 Como me encontrar
-LinkedIn: https://www.linkedin.com/in/gabriel-chaves-15278324a/
-Email: gabrielgcg3535@gmail.com
